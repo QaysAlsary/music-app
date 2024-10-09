@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/buddy.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/sunny.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/ukulele.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/creativeminds.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/energy.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Kiss Me More",
+    "artist": "Doja Cat",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/tomorrow.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Stay",
+    "artist": "The Kid LAROI, Justin Bieber",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/dubstep.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/onceagain.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/funnysong.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Montero",
+    "artist": "Lil Nas X",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/epic.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Butter",
+    "artist": "BTS",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/happyrock.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Deja Vu",
+    "artist": "Olivia Rodrigo",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/jazzyfrenchy.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/summer.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Shivers",
+    "artist": "Ed Sheeran",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/groovyhiphop.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Leave The Door Open",
+    "artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/memories.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Industry Baby",
+    "artist": "Lil Nas X, Jack Harlow",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/goinghigher.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Mood",
+    "artist": "24kGoldn, Iann Dior",
+    "albumArtUrl": "https://www.bensound.com/bensound-img/adventure.jpg",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3"
+  }
+]

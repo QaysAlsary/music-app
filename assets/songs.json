@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Dua_Lipa_-_Levitating.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/Justin_Bieber_-_Peaches.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Weeknd_-_Save_Your_Tears.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/a/a8/Olivia_Rodrigo_-_Good_4_U.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Kiss Me More",
+    "artist": "Doja Cat",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/Doja_Cat_-_Kiss_Me_More.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Stay",
+    "artist": "The Kid LAROI, Justin Bieber",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Kid_LAROI_-_Stay.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Olivia_Rodrigo_-_Drivers_License.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/a/a8/Ed_Sheeran_-_Bad_Habits.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Montero",
+    "artist": "Lil Nas X",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/Lil_Nas_X_-_Montero_%28Call_Me_by_Your_Name%29.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Butter",
+    "artist": "BTS",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/BTS_-_Butter.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Deja Vu",
+    "artist": "Olivia Rodrigo",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Olivia_Rodrigo_-_Deja_Vu.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/Glass_Animals_-_Heat_Waves.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Shivers",
+    "artist": "Ed Sheeran",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Ed_Sheeran_-_Shivers.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Leave The Door Open",
+    "artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/Silk_Sonic_-_Leave_the_Door_Open.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Industry Baby",
+    "artist": "Lil Nas X, Jack Harlow",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Lil_Nas_X_-_Industry_Baby.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Mood",
+    "artist": "24kGoldn, Iann Dior",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/24kGoldn_-_Mood.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Astronaut In The Ocean",
+    "artist": "Masked Wolf",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/9/9b/Masked_Wolf_-_Astronaut_in_the_Ocean.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-18.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Blame It On You",
+    "artist": "Jason Aldean",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/5/56/Jason_Aldean_-_Blame_It_On_You.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-19.mp3"
+  },
+  {
+    "id": 20,
+    "title": "Levitating (feat. DaBaby)",
+    "artist": "Dua Lipa",
+    "albumArtUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Dua_Lipa_-_Levitating_remix.png",
+    "streamingUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-20.mp3"
+  }
+]
